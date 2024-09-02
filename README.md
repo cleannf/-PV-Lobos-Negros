@@ -8,3 +8,8 @@
 
 ![Foto mia](https://github.com/user-attachments/assets/b2be6e58-4e6c-4bbe-a3ff-fc3506b4f609)
 
+### 3. Valentina Leal Lopez
+- **Rol en la industria:** Artista de Efectos Especiales
+- **Ubicación:** La Calera, Cundinamarca
+- **Perfil:** Mi nombre es Valentina Leal, tengo 25 años, estoy en septimo semestre de ingenieria multimedia, soy una persona creativa, me gusta la naturaleza y la musica.
+
