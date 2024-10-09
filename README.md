@@ -10,5 +10,7 @@ Este juego fue elegido a partir de varios assets de la biblioteca de Unity. A co
 - **Tale Monster Cube Env**: Escenario y elementos del nivel utilizando este asset de ambiente.
 - **Sonidos**: Se incluyeron efectos como el ladrido de perro y música clásica de *Mario Bros*.
 
-### Link del video:
-[https://youtu.be/isZrVk3fBSU](https://youtu.be/isZrVk3fBSU)
+### Reproducción del video:
+[![Mira el video](https://img.youtube.com/vi/isZrVk3fBSU/0.jpg)](https://youtu.be/isZrVk3fBSU)
+
+Haz clic en la imagen para ver el video.
