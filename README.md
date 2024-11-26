@@ -31,4 +31,6 @@ Se realizaron varias animaciones para darle un toque similar al minijuego origin
 
 ### Video Explicativo
 
-A continuación se puede ver el video explicativo sobre cómo funciona el minijuego:  
+## Video Explicativo
+Haz clic en la miniatura para ver un video explicativo del minijuego:  
+[![Ver video en YouTube](https://img.youtube.com/vi/PmfGGevkRDI/0.jpg)](https://youtu.be/PmfGGevkRDI)
