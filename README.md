@@ -29,8 +29,6 @@ Se realizaron varias animaciones para darle un toque similar al minijuego origin
 -En el finish con una escala y posicion.  
 
 
-### Video Explicativo
-
 ## Video Explicativo
 Haz clic en la miniatura para ver un video explicativo del minijuego:  
 [![Ver video en YouTube](https://img.youtube.com/vi/PmfGGevkRDI/0.jpg)](https://youtu.be/PmfGGevkRDI)
