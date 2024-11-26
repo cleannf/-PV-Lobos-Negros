@@ -31,5 +31,7 @@ Se realizaron varias animaciones para darle un toque similar al minijuego origin
 
 ## Video Explicativo
 Haz clic en la miniatura para ver un video explicativo del minijuego:  
+[![Ver video en YouTube](https://img.youtube.com/vi/0jXOpnH6di0/0.jpg)](https://youtu.be/0jXOpnH6di0)
+
 
 
