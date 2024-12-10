@@ -18,8 +18,10 @@ Para implementar las mecánicas del minijuego, se desarrollaron cinco scripts pr
 
 6. **AudioController**: Este script es nuevo y se añadió para gestionar la música de fondo durante el minijuego. Controlando su duración y volumen, además se le agrego un modificador para que tenga un fundido al final del minijuego.  
 
-Se agregaron nuevos sonidos para mejorar el minijuego y fuera acorde a la temática.
+Se agregaron nuevos sonidos para mejorar el minijuego y fuera acorde a la temática.  
 
+## Link del drive del juego ejecutable .exe
+[Descargar el juego](https://drive.google.com/drive/folders/1M2BI0EUQkevFzWQmXbJlKbAgsaD9PDnh?usp=sharing)
 
 
 ## Video Explicativo
