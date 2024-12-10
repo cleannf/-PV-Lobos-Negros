@@ -16,7 +16,7 @@ Para implementar las mecánicas del minijuego, se desarrollaron cinco scripts pr
 
 5. **TimerManager**: Controla el tiempo restante del minijuego, iniciando desde 30 segundos hasta llegar a 0. Además, se añaden dos sonidos: uno para el reloj que cuenta el tiempo y otro que suena cuando el tiempo se termina, mostrando el mensaje de *finish*. También se cambiaron unas cosas en su código para controlar los tiempos en que comienza el sonido del contador. Se le agrego que el cursor aparezca y desaparezca, además se agregaron unos controladores para el volumen. Cuando termina de ejecutarse el juego da la acción de finalizarlo y cerrarlo.  
 
-6. **AudioController**: Este script gestiona la música de fondo durante el minijuego. Controlando su duración y volumen, además se le agrego un modificador para que tenga un fundido al final del minijuego.  
+6. **AudioController**: Este script es nuevo y se añadió para gestionar la música de fondo durante el minijuego. Controlando su duración y volumen, además se le agrego un modificador para que tenga un fundido al final del minijuego.  
 
 Se agregaron nuevos sonidos para mejorar el minijuego y fuera acorde a la temática.
 
