@@ -21,7 +21,7 @@ Para implementar las mecánicas del minijuego, se desarrollaron cinco scripts pr
 Se agregaron nuevos sonidos para mejorar el minijuego y fuera acorde a la temática.  
 
 ## Link del drive del juego ejecutable .exe
-[Descargar el juego](https://drive.google.com/drive/folders/1M2BI0EUQkevFzWQmXbJlKbAgsaD9PDnh?usp=sharing)
+[https://drive.google.com/drive/folders/1M2BI0EUQkevFzWQmXbJlKbAgsaD9PDnh?usp=sharing](https://drive.google.com/drive/folders/1M2BI0EUQkevFzWQmXbJlKbAgsaD9PDnh?usp=sharing)
 
 
 ## Video Explicativo
