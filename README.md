@@ -25,8 +25,9 @@ Se agregaron nuevos sonidos para mejorar el minijuego y fuera acorde a la temát
 
 
 ## Video Explicativo
-Haz clic en la miniatura para ver un video explicativo del minijuego:  
-[![Ver video en YouTube](https://img.youtube.com/vi/0jXOpnH6di0/0.jpg)](https://youtu.be/0jXOpnH6di0)
+[![Ver el Video](https://img.youtube.com/vi/Px-8mbeO3ls/0.jpg)](https://youtu.be/Px-8mbeO3ls)
+
+Haz clic en la imagen para ver el video del proyecto.
 
 
 
